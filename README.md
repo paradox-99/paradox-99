@@ -1,6 +1,8 @@
 <a href="www.linkedin.com/in/radwanul-islam-nayeem">
 <img src="https://github.com/paradox-99/paradox-99/assets/103718355/0e7a0e24-58dc-446c-8240-8b0d1f5ea246" alt="banner image">
 </a>
+<a href="https://www.facebook.com/mdnayeem.islam.106/" ><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge"></a>
+<a href="https://www.facebook.com/mdnayeem.islam.106/" ><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge"></a>
 
 <!--
 **paradox-99/paradox-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
