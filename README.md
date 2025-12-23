@@ -13,7 +13,7 @@
 ## :chart_with_upwards_trend: Status
 <br />
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paradox-99&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=paradox-99&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ## 🛠️ Skills I have
