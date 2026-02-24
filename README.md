@@ -7,7 +7,7 @@
 ## 😊 About me
 <p>
   Hi👋<br>
-  This is Radwanul Islam Nayeem. I'm a 3rd-year CS student passionate about web development. I began my journey into web development with a fascination for how websites are built and a desire to bring innovative ideas to life on the web. I have proficiency in HTML, CSS, JavaScript, and React with front-end development. I also know about MongoDB, MySQL, and a little bit about Express.js. 
+  I am a passionate full stack developer and Computer Science student at United International University, Dhaka. I specialize in building end-to-end web applications — from responsive frontends with React and Tailwind CSS to robust backends with Node.js, PostgreSQL, and Express.js.
 </p>
 
 ## :chart_with_upwards_trend: Status
